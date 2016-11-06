@@ -1,50 +1,65 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
-baseurl: "/space-jekyll-template" # the subpath of your site
-url: "http://zuspadt79.github.io"
+title: Samuel Hey
+email: samuel.hey@gmail.com
+url: https://zuspadt79.github.io
+description: "Junior Web Developer"
+skills: "Junior Web Developer"
+meta_author: me
 
-# User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 35363D #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 35363D #FD6E8A
+  secondary-dark: 35363D #A2122F
+
+# Footer settings
+footer:
+  copyright: Samuel Hey
+  # location: Glasgow
+  social: Around the Web
+  # credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/zuspadt79jekyll
+  - title: linkedin
+    url: http://www.linkedin.com/in/samuelhey
+  - title: twitter
+    url: http://twitter.com/zuspadt
+  - title: facebook
+    url: https://www.facebook.com/samuel.hey.3
+  # - title: stack-overflow
+  #   url: http://stackoverflow.com/questions/tagged/jekyll
+  # - title: bitbucket
+  #   url: http://bitbucket.org/jekyll
+
+
+# Postal address (add as many lines as necessary)
+address:
+  - line:
+  - line:
+
+# Credits content
+# credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-permalink: /:title/
-
-
-# html minify
-compress_html:
-  clippings: all
-  comments: all
-  endings: []
-  profile: false
-
-# Links to include in menu navigation
-links:
-  - title: home
-    url: /
-  - title: my posts
-    url: /posts
-  - title: series
-    url: /series
-  - title: tags
-    url: /tags
-  - title: about me
-    url: /about
-# projects in header index
-projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara
-# exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+permalink: pretty
