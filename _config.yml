@@ -1,8 +1,8 @@
 # Site settings
-title: Samuel Hey
+title: Samuel Hey | Web Dev
 email: samuel.hey@gmail.com
 url: https://zuspadt79.github.io
-description: "Junior Web Developer"
+description: "Web Developer"
 skills: "Junior Web Developer"
 meta_author: me
 
@@ -24,10 +24,10 @@ disqus_shortname: zuspadt_personal
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 51EC7E #80B3FF
+  primary: 0b5484 #80B3FF
   # primary-rgb: "24,288,156" #"128,179,255"
   secondary: 35363D #FD6E8A
-  secondary-dark: 2d2f8c #A2122F
+  secondary-dark: 35363D #A2122F
 
 # Footer settings
 footer:
@@ -39,7 +39,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: http://github.com/zuspadt79jekyll
+    url: http://github.com/zuspadt79
   - title: linkedin
     url: http://www.linkedin.com/in/samuelhey
   - title: twitter

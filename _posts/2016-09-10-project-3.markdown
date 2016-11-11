@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2016-09-10
+img: game.png
+alt: image-alt
+project-date: September 2016
+client: GA WDI
+category: Web Development
+description: Group project. VeeMail. Audio based social media platform. Details to follow.
+
+---

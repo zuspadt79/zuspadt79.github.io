@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2016-08-20
+img: game.png
+alt: image-alt
+project-date: August 2016
+client: GA WDI
+category: Web Development
+description: Get Me Ohm! Hilarious pun. EV charge map. Details to follow.
+
+---

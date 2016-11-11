@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
+date: 2016-09-20
 img: game.png
 alt: image-alt
 project-date: October 2016
 client: General Assembly WDI
 category: Web Development
-description: Bibliobibul.io is a book thing that I shall fill out the deets of later.
+description: Bibliobibul.io is a book thing that I shall fill out the details of later.
 
 ---
