@@ -6,7 +6,8 @@ img: game.png
 alt: image-alt
 project-date: October 2016
 client: General Assembly WDI
-link: Web Development
+link: <a href="https://powerful-falls-66955.herokuapp.com/">Website</a>
+code: <a href="https://github.com/zuspadt79/wdi-project-2">Github</a>
 description: 24 hour Hack-a-thon project. Later Gator, random holiday destination mobile app. Ionic and AngularJS. Details to follow.
 
 ---

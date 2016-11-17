@@ -2,11 +2,12 @@
 layout: default
 modal-id: 2
 date: 2016-08-20
-img: game.png
+img: get-me-ohm-project2.png
 alt: image-alt
 project-date: August 2016
 client: GA WDI
-link: Web Development
+link: <a href="https://powerful-falls-66955.herokuapp.com/">Website</a>
+code: <a href="https://github.com/zuspadt79/wdi-project-2">Github</a>
 description: Get Me Ohm! Hilarious pun. EV charge map. Details to follow.
 
 ---

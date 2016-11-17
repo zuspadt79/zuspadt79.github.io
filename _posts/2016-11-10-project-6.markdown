@@ -6,7 +6,8 @@ img: game.png
 alt: image-alt
 project-date: November 2016
 client: Me
-link: Web Development
+link: <a href="/">Website</a>
+code: <a href="https://github.com/zuspadt79">Github</a>
 description: TBC
 
 ---

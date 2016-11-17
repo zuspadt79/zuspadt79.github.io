@@ -84,6 +84,11 @@ particlesJS('particles-js',
   "interactivity": {
     "detect_on": "canvas",
     "events": {
+      "onresize": {
+        "enable": true,
+        "density_auto": true,
+        "density_area": 400
+      },
       "onhover": {
         "enable": true,
         "mode": "bubble"

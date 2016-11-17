@@ -2,11 +2,12 @@
 layout: default
 modal-id: 3
 date: 2016-09-10
-img: game.png
+img: veemail-group-project3.png
 alt: image-alt
 project-date: September 2016
 client: GA WDI
-link: Web Development
+link: <a href="https://veemail.herokuapp.com/">Website</a>
+code: <a href="https://github.com/willmarps/wdi-project-3">Github</a>
 description: Group project. VeeMail. Audio based social media platform. Details to follow.
 
 ---

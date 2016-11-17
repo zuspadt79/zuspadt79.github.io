@@ -6,7 +6,8 @@ img: connect-the-dots-project1.png
 alt: image-alt
 project-date: August 2016
 client: GA WDI
-link: Web Development
+link: <a href="http://protected-badlands-65499.herokuapp.com/">Website</a>
+code: <a href="https://github.com/zuspadt79/wdi-project-1">Github</a>
 description: First project at WDI. Connect the Dots game. Details to follow.
 
 ---
