@@ -6,7 +6,7 @@ img: connect-the-dots-project1.png
 alt: image-alt
 project-date: August 2016
 client: GA WDI
-category: Web Development
+link: Web Development
 description: First project at WDI. Connect the Dots game. Details to follow.
 
 ---

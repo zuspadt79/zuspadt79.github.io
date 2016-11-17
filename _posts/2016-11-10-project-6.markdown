@@ -6,7 +6,7 @@ img: game.png
 alt: image-alt
 project-date: November 2016
 client: Me
-category: Web Development
+link: Web Development
 description: TBC
 
 ---

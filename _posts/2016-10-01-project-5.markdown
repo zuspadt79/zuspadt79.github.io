@@ -6,7 +6,7 @@ img: game.png
 alt: image-alt
 project-date: October 2016
 client: General Assembly WDI
-category: Web Development
+link: Web Development
 description: 24 hour Hack-a-thon project. Later Gator, random holiday destination mobile app. Ionic and AngularJS. Details to follow.
 
 ---

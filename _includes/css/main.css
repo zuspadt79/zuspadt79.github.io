@@ -253,6 +253,13 @@ section.success {
   }
 }
 
+@media (max-width:767px) {
+  #logo {
+    padding-top: 70px;
+  }
+}
+
+
 .btn-outline {
   margin-top: 15px;
   border: solid 2px #fff;
@@ -458,13 +465,13 @@ footer .footer-below {
 }
 
 #particles-js{
-	position: absolute;
-    top:0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
 }
 
 #logo{
-	max-width: 500px;
+  max-width: 500px;
 }

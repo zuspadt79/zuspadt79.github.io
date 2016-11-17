@@ -6,7 +6,7 @@ img: game.png
 alt: image-alt
 project-date: September 2016
 client: GA WDI
-category: Web Development
+link: Web Development
 description: Group project. VeeMail. Audio based social media platform. Details to follow.
 
 ---
