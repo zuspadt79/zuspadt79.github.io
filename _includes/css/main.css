@@ -83,7 +83,7 @@ header {
   text-align: center;
   color: #fff;
   background: #fff;
-  /*background-image: linear-gradient(-90deg, #2d2f8c 0%, #51EC7E 100%);*/
+  background-image: linear-gradient(-90deg, #2d2f8c 0%, #51EC7E 100%);
 }
 
 /*header .container {
@@ -473,5 +473,5 @@ footer .footer-below {
 }
 
 #logo{
-  max-width: 500px;
+  max-width: 400px;
 }
